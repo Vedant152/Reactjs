@@ -1,0 +1,37 @@
+img{
+  max-width: 100%;
+  margin: 50px;
+  margin-top: 50px;
+  float: left;
+} 
+
+h1{
+  align-items: center;
+  margin-left: 40rem;
+}
+
+p{
+  margin-top: 10rem;
+}
+.container-fluid{
+  display: flex;
+  max-width: 100%;
+  margin: 0px;
+  margin-top: 50px;
+  
+}
+.image{
+  max-width: 100%;
+  margin: 0px;
+  margin-top: 0px;
+  float: right;
+  height: auto;
+  padding: 0;
+}
+.text{
+  padding-left:10px ;
+  padding-top: 0px;
+  margin: 0px;
+  margin-top: 0;
+  max-width: 70;
+}
